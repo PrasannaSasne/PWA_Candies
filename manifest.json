@@ -1,0 +1,21 @@
+{
+  "name": "PWACandy",
+  "short_name": "PWACandy",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2A3443",
+  "description": "Candy App for PWA Service worker",
+  "theme_color": "#2A3443",
+  "icons": [
+    {
+      "src": "imgs/candy.png",
+      "sizes": "466x466",
+      "type": "image/png"
+    },
+    {
+      "src": "imgs/candy2.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ]
+}
