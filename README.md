@@ -1,6 +1,6 @@
 # PWA_Candies
 
-This project was generated with Pure HTML and PWA implementation of service worker
+This project was generated with Pure HTML and PWA implementation of service worker, as this workes offline. Push notifications are not implemented.
 
 ## Development server local
 
