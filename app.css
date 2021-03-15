@@ -56,4 +56,7 @@ body{
 .content{
 	margin-top: 100px;
 }
+.alert{
+	background: orange;
+}
 
